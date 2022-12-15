@@ -24,4 +24,4 @@
 
 ## 4. 진행방향
   - EDA
-  - Feture E
+  - Feture Engineering
